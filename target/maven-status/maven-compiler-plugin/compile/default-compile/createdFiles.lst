@@ -1,1 +1,16 @@
 com/blogging/bloging/BlogingApplication.class
+com/blogging/bloging/model/Category.class
+com/blogging/bloging/service/impl/CategoryImpl.class
+com/blogging/bloging/controller/CategoryController.class
+com/blogging/bloging/service/CreateUserData.class
+com/blogging/bloging/repo/CategoryRepo.class
+com/blogging/bloging/controller/PostController.class
+com/blogging/bloging/service/impl/createUserDataServiceIml.class
+com/blogging/bloging/model/UserData.class
+com/blogging/bloging/service/CategoryService.class
+com/blogging/bloging/model/Post.class
+com/blogging/bloging/repo/UserInfoRepo.class
+com/blogging/bloging/service/impl/PostServiceImpl.class
+com/blogging/bloging/service/PostService.class
+com/blogging/bloging/repo/PostRepo.class
+com/blogging/bloging/controller/UserController.class
